@@ -1,7 +1,7 @@
 {
     "includes": {
         "packages\/behat.json": {
-            "sha1": "c1f324e2e574e54bd03719e30cd79e6d7e928b8d"
+            "sha1": "09cdf69a501d4c85f84b6c39242ffc96b8457436"
         },
         "packages\/pdepend.json": {
             "sha1": "00f7fe963ea096692f6c913624bdba2b7f58fad4"
